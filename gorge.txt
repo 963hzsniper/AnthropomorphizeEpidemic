@@ -1,1 +1,1 @@
-kill_switch on
+kill_switch off
